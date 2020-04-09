@@ -1,0 +1,7 @@
+D:\programming\C#course\hm7\hm7\obj\Debug\hm7.csprojAssemblyReference.cache
+D:\programming\C#course\hm7\hm7\obj\Debug\hm7.csproj.CoreCompileInputs.cache
+D:\programming\C#course\hm7\hm7\bin\Debug\hm7.exe.config
+D:\programming\C#course\hm7\hm7\bin\Debug\hm7.exe
+D:\programming\C#course\hm7\hm7\bin\Debug\hm7.pdb
+D:\programming\C#course\hm7\hm7\obj\Debug\hm7.exe
+D:\programming\C#course\hm7\hm7\obj\Debug\hm7.pdb
